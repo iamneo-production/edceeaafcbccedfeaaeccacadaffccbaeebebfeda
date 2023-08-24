@@ -14,7 +14,7 @@ import { TodayComponent } from './today/today/today.component';
     HeaderComponent,
     FooterComponent,
     NewFoodComponent,
-    TodayComponent,
+    TodayComponent
   ],
   imports: [
     BrowserModule,
